@@ -1,0 +1,11 @@
+C:\Users\dev\Desktop\Nova_pasta\bin\Debug\netcoreapp3.1\Nova_pasta.exe
+C:\Users\dev\Desktop\Nova_pasta\bin\Debug\netcoreapp3.1\Nova_pasta.deps.json
+C:\Users\dev\Desktop\Nova_pasta\bin\Debug\netcoreapp3.1\Nova_pasta.runtimeconfig.json
+C:\Users\dev\Desktop\Nova_pasta\bin\Debug\netcoreapp3.1\Nova_pasta.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Nova_pasta\bin\Debug\netcoreapp3.1\Nova_pasta.dll
+C:\Users\dev\Desktop\Nova_pasta\bin\Debug\netcoreapp3.1\Nova_pasta.pdb
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\netcoreapp3.1\Nova_pasta.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\netcoreapp3.1\Nova_pasta.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\netcoreapp3.1\Nova_pasta.AssemblyInfo.cs
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\netcoreapp3.1\Nova_pasta.dll
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\netcoreapp3.1\Nova_pasta.pdb
